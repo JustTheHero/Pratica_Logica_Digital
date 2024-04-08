@@ -17,8 +17,6 @@ Além disso, estou à disposição para fornecer dicas sobre o uso do Quartus, o
 
 Espero que este recurso possa ser útil e facilite a jornada de vocês na disciplina.
 
-Contem comigo!
-
 # Projeto 1-3 (Simplificação de Lógica)
 Projetos mais básicos na disciplina são valiosos para consolidar o aprendizado e enfrentar desafios que ajudam a compreender os conceitos trabalhados. Às vezes, esses projetos podem parecer confusos no início, levando a discussões intensas com os amigos enquanto tentamos decifrar o sentido por trás de cada detalhe. No entanto, essa jornada de descoberta é parte essencial do processo de aprendizado.
 
