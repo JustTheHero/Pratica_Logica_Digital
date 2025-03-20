@@ -83,7 +83,7 @@ Assim, um somador de 4 bits nos permite somar dois números de até 4 bits cada 
 
 [link projeto 5](https://drive.google.com/file/d/1jlhHfaqtEYOftN-mse0jo2Ob2_H2ZTDS/view?usp=sharing)
 
-[link projeto 6](https://drive.google.com/file/d/1l95KIK3pxk5lFtlL5uF4JPGXAWokintB/view?usp=sharing)
+[link projeto 6](https://drive.google.com/file/d/19MzSeGjlwfyy4jfjTf1e4Y7mtMzhWq-q/view?usp=sharing)
 
 [vídeo ytb explicando](https://www.youtube.com/watch?v=kP2PZ3hUDRM&list=PL400nT9WA9li9LjGXqFKlHqRZxryRAomV&index=5)
 
@@ -120,9 +120,9 @@ A saída de um subtrator de 4 bits consiste em quatro bits, representando o resu
 
 Basicamente, um subtrator de 4 bits permite subtrair um número de 4 bits de outro número de 4 bits e produzir um resultado de até 4 bits. O processo é semelhante à subtração manual, mas executado de forma eletrônica e em paralelo para cada par de bits correspondentes.
 
-[link projeto 7](https://drive.google.com/file/d/1BsC3vY_vWIX3kZAbal4WITfj98HH2HGg/view?usp=sharing)
+[link projeto 7](https://drive.google.com/file/d/1eKgN3sSb4LZzXpjX6zlrZS79upnTSEN2/view?usp=sharing)
 
-[link projeto 8](https://drive.google.com/file/d/1Ba06uiPSNK32hsptrAgW87Bwe_xA5IAD/view?usp=sharing)
+[link projeto 8](https://drive.google.com/file/d/1Thae6tJ4mf1MVOJo3oTuaCR3w20z258L/view?usp=sharing)
 
 [vídeo ytb explicando](https://www.youtube.com/watch?v=2-XW8rloK-I&list=PL400nT9WA9li9LjGXqFKlHqRZxryRAomV&index=6)
 
@@ -148,7 +148,7 @@ O resultado é o resultado da subtração dos dois números em complemento de 2.
 
 Este circuito é implementado em cascata de somadores de 1 bit, assim como um subtrator convencional, mas com um ajuste adicional para lidar com o bit de "empréstimo" e garantir que a operação de subtração funcione corretamente para números positivos e negativos. 
 
-[link projeto 9](https://drive.google.com/file/d/18rPFcvcqY5341j8Ymd4hYPXBURHAVmPC/view?usp=sharing)
+[link projeto 9](https://drive.google.com/file/d/1QkdeMnzof1Sp5TpJ6TSUnuK9-rOwIAkp/view?usp=sharing)
 
 [vídeo ytb explicando](https://www.youtube.com/watch?v=A25zZZK6Zug&list=PL400nT9WA9li9LjGXqFKlHqRZxryRAomV&index=7)
 
@@ -164,7 +164,7 @@ Aqui está um exemplo passo a passo de como um multiplicador de 4 bits opera:
 
 O circuito de um multiplicador de 4 bits é composto por vários blocos de somadores de 4 bits e portas lógicas para realizar as multiplicações parciais e a soma dos resultados. A multiplicação é feita em paralelo para todos os bits do multiplicador, tornando o processo rápido e eficiente.
 
-[link projeto 10](https://drive.google.com/file/d/1MUr_qo3UdMalC-8Pu5IA8JIY1iz7S1En/view?usp=sharing)
+[link projeto 10](https://drive.google.com/file/d/1Ht0Zu-OWctxdWtsQcDX4aM0ZATDKz9IH/view?usp=sharing)
 
 [vídeo do ytb explicando](https://www.youtube.com/watch?v=5PVTKN-jxA4&list=PL400nT9WA9li9LjGXqFKlHqRZxryRAomV&index=9)
 
@@ -181,14 +181,14 @@ Aqui está um exemplo de como um divisor de 4 bits poderia operar:
 
 Implementar um divisor de 4 bits é mais complexo do que um multiplicador de 4 bits devido à natureza iterativa do algoritmo de divisão. Requer o uso de circuitos lógicos combinacionais e sequenciais, para realizar as operações de subtração e deslocamento necessárias para realizar a divisão.
 
-[link projeto 11](https://drive.google.com/file/d/1pwmNKD_xfRjbEOs9C0cecLpMpAobOEtF/view?usp=sharing)
+[link projeto 11](https://drive.google.com/file/d/1stAzpPSj_q1h_woiRgqjR05pTLTPIS9j/view?usp=sharing)
 
 [vídeo do ytb explicando](https://www.youtube.com/watch?v=RZFIhTT7bKM&list=PL400nT9WA9li9LjGXqFKlHqRZxryRAomV&index=10)
 
 # Projeto 12 (Raiz Quadrada)
 TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO 
 
-[link do projeto 12](https://drive.google.com/file/d/1MvGizjIady3pMLMTGKZbtOnk9aNsuilR/view?usp=sharing)
+[link do projeto 12](https://drive.google.com/file/d/1QdtektYE5kkRdwIs_NKU_x3D5RKJbHUY/view?usp=sharing)
 
 [vídeo do ytb explicando](https://www.youtube.com/watch?v=9qRPtWJ4ONw&list=PL400nT9WA9li9LjGXqFKlHqRZxryRAomV&index=11)
 
@@ -197,6 +197,6 @@ A base de um comparador é um subtrator de A-B, para o caso de todos os bits de 
 Para checar se todos são zero, basta fazer um nand de todas as saídas
 Para checar se o número é negativo basta analizar o bit mais significativo
 
-[link do projeto 13](https://drive.google.com/file/d/1aCkWtF6c9VPDcMn3kZ9Yqjad8bhEYLGm/view?usp=sharing)
+[link do projeto 13](https://drive.google.com/file/d/1udslxfRdyf20TxoykvsBkVIJv6hRpY6I/view?usp=sharing)
 
 [vídeo do ytb explicando](https://www.youtube.com/watch?v=q-qf01VqWk8&list=PL400nT9WA9li9LjGXqFKlHqRZxryRAomV&index=12)
