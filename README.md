@@ -8,6 +8,7 @@ Porém, problemas básicos com o incrível programa Quartus, juntamente com dica
 Funcionamento básico:
 - **NÂO COPIEM IGUAL OS PROJETOS**, o professor tem um programa que detecta plágio nos trabalhos
 - Os projetos são arquivos .bdf, isso siginifica que são os desenhos de fios e blocos, ao baixar eles vocês só precisam abrir ele pra ver como fazer
+- Alguns arquivos são .qar você só precisa executar e o quartus mostra tudo
 - blocos serão ensinados para vocês diretamente pelo professor quando for preciso
 - Os vídeos do youtube são do professor Wolf, um amor de gente
 - Sempre tentem fazer os projetos ou ao menos entenderem como funcionam, são úteis para a aula teórica como também para o próximo semestre
@@ -186,7 +187,19 @@ Implementar um divisor de 4 bits é mais complexo do que um multiplicador de 4 b
 [vídeo do ytb explicando](https://www.youtube.com/watch?v=RZFIhTT7bKM&list=PL400nT9WA9li9LjGXqFKlHqRZxryRAomV&index=10)
 
 # Projeto 12 (Raiz Quadrada)
-TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO 
+Este é o último circuito aritmético da disciplina e, curiosamente, funciona de maneira muito parecida com a Divisão. Se você entendeu o Divisor, a Raiz Quadrada vai ser tranquila!
+
+A lógica que usamos aqui é um algoritmo conhecido como "Restoring Square Root" (Raiz Quadrada com Restauração).
+
+Como funciona a lógica:A ideia é descobrir a raiz bit por bit, do mais significativo para o menos significativo.
+Agrupamento: Pegamos o número de entrada e o dividimos em pares de bits, começando da esquerda (MSB).
+
+Adivinhação: Para cada par que "baixamos", tentamos subtrair um valor de teste.
+
+O Valor de Teste: Se a raiz que encontramos até agora é P, o valor que tentamos subtrair do resto atual é formado por $P$ seguido de $01$ (em binário, isso equivale a 4P + 1).
+
+Decisão:Se a subtração for possível (resultado positivo), o bit da raiz é 1 e atualizamos o resto.
+Se a subtração não for possível (resultado negativo), o bit da raiz é 0 e mantemos o resto anterior.
 
 [link do projeto 12](https://drive.google.com/file/d/1QdtektYE5kkRdwIs_NKU_x3D5RKJbHUY/view?usp=sharing)
 
